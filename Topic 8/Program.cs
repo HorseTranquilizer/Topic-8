@@ -33,7 +33,7 @@
             {
                 Console.WriteLine(names[5]);
             }
-        }
+        } // still cant figure out how to format it
     }
     
     
